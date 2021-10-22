@@ -4,8 +4,14 @@
 
 ![contvsvms](./docs/images/containers-vs-virtual-machines.jpg)
 
-## API REST em Python Flask
+## Ferramentas
 
+- Podman: https://podman.io/
+- Docker: https://www.docker.com/
+- IBM CLI: https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases/
+
+
+## API REST em Python Flask
 
 ```bash
 .
