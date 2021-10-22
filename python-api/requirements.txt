@@ -1,0 +1,11 @@
+wheel
+flask
+flask_sslify
+flask_cors
+flask_login
+flask_migrate
+python-dotenv
+gunicorn
+requests
+ibm-watson
+Werkzeug
